@@ -1,0 +1,8 @@
+title: Spacer
+description: 다녀온 실내 공간을 기록하는 앱
+theme: jekyll-theme-minimal
+lang: ko
+
+# 앱 저장소의 docs/ 가 원본이다. 이 저장소는 게시용 사본이다.
+exclude:
+  - README.md
